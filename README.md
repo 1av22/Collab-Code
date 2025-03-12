@@ -102,14 +102,3 @@ Collab-Code/
 │   └── config/      # Configuration files
 └── docs/            # Documentation
 ```
-
-## Features
-
-- Real-time code collaboration
-- Integrated development environment
-- AI-powered code suggestions
-- Project sharing and management
-- User authentication and authorization
-- File system management
-- Real-time chat
-- Code execution environment
