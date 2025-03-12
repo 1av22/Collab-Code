@@ -27,7 +27,7 @@ Collab-Code is a real-time collaborative code editor and development environment
 1. Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/Collab-Code.git
+git clone https://github.com/1av22/Collab-Code.git
 cd Collab-Code
 ```
 
